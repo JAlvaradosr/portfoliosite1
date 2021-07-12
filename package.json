@@ -1,0 +1,14 @@
+{
+  "name": "portfolio-site-1",
+  "version": "1.0.0",
+  "description": "Portfolio Site 1 (Natours)",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss styles.css -w"
+  },
+  "author": "Jonathan Alvarado",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^6.0.1"
+  }
+}
